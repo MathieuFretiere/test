@@ -8,7 +8,7 @@ package com.mycompany.testnetbeans124;
 import java.util.*;
 
 /**
- *
+ * @version 2.0
  * @author Mathieu
  */
 public class Test {
@@ -24,6 +24,7 @@ public class Test {
         String s = new String("bonjour");
         
         Integer entier = 10;
+        System.out.println("entier");
         
         //Integer.parseInt()
         //entier.
